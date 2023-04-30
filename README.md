@@ -1,2 +1,10 @@
-# lista-exercicio-2
-Lista II de exercícios feitos em Java.
+## Lista II de Exercícios
+
+**Tecnologias utilizadas para a realização dos
+ exercícios:**
+
+[Visual Studio Code](https://code.visualstudio.com/)
+
+[JDK](https://www.oracle.com/br/java/technologies/downloads/)
+
+[Java](https://www.java.com/pt-BR/)
